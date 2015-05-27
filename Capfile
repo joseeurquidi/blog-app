@@ -32,4 +32,3 @@ require 'capistrano/rails/assets'
 require 'capistrano/rails/migrations'
 
 require 'capistrano/unicorn_nginx'
-require 'capistrano/postgresql'
